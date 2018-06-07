@@ -1,0 +1,14 @@
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\bin\Debug\sharp7_deneme_plc_connect.exe.config
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\bin\Debug\sharp7_deneme_plc_connect.exe
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\bin\Debug\sharp7_deneme_plc_connect.pdb
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.csprojResolveAssemblyReference.cache
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.Form1.resources
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.Properties.Resources.resources
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.csproj.GenerateResource.Cache
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.exe
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.pdb
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\bin\Debug\Sharp7Library.dll
+D:\01.01.2016\KENDI CALISMALARIM BILGISAYAR PROGRAMCILIGI\sharp7_deneme_plc_connect\sharp7_deneme_plc_connect\bin\Debug\Sharp7Library.pdb
+C:\Users\admin\Source\Repos\sharp7_s7_300_connect\sharp7_deneme_plc_connect\bin\Debug\sharp7_deneme_plc_connect.exe.config
+C:\Users\admin\Source\Repos\sharp7_s7_300_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.exe
+C:\Users\admin\Source\Repos\sharp7_s7_300_connect\sharp7_deneme_plc_connect\obj\Debug\sharp7_deneme_plc_connect.pdb
